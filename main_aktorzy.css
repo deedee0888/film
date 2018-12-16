@@ -1,0 +1,183 @@
+body {
+    background-color: #F1F1F1;
+    font-family: 'Lato';
+    display: block;
+    margin: 0px;
+    padding: 0px;
+}
+a {
+    text-decoration: none;
+}
+
+
+.header {
+    background-color: white;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+    
+}
+
+.logo {
+    height: 60px;
+    width: auto;
+    margin: 10px;
+    align-content: flex-start;
+}
+
+.top-nav {
+    height: 80px;
+    width: 60%;    
+}
+
+.top-nav ul {
+    display: flex;
+    align-items: flex-end;
+    list-style: none;
+    padding: 0px;
+    
+    
+}
+
+.top-nav ul li {
+    display: flex;
+    height: 40px;
+    flex-grow: 1;
+    border: 1px solid #f1f1f1;
+    justify-content: center;
+    align-items: center;
+}
+
+.top-nav ul li:hover {
+    border-bottom: 3px solid green;
+}
+
+.top-nav ul li a {
+    
+    color: black;
+}
+
+.baner {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: auto;
+    height: 400px;
+    background-image: linear-gradient(to bottom, rgba(30, 87, 153, 0) 0%, rgba(29, 83, 146, 0) 4%, black 86%), url('img/actors/2_full.jpg');
+    background-size: cover;
+    background-position: 50% 50%;
+    color: white;
+    padding: 50px 20px;
+}
+
+.baner h1 {
+    font-size: 72px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.baner h2 {
+    display: flex;
+    font-weight: lighter;
+}
+
+.baner h2 a {
+    display: block;
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 5px;
+    margin-left: 10px;
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.5s;
+}
+
+.baner h2 a:hover {
+    transform: scale(1.2);
+    
+    
+}
+
+main section {
+    background-color: white;
+    display: block;
+    overflow: -webkit-paged-x;
+    margin: 30px 50px;
+    padding: 20px 30px;
+
+}
+
+main section div {
+    display: flex;
+    justify-content: space-evenly;   
+
+}
+
+main section header h2 {
+    margin: 0px;
+    display: inline;
+}
+
+main section header a {
+    color: green;
+    display: inline;
+    margin-left: 20px;
+    transition-timing-function: ease-in-out;
+}
+
+main section header a:hover { 
+    transform: scale(1.3);
+    
+    color: red;
+}
+
+article {
+    position: relative;
+    height: 432.58px;
+    width: 300px;
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.3s;
+    
+}
+
+.small_pic {
+    float: left;
+    margin: 20px;
+}
+
+article img {
+    position: absolute;
+    width: 100%;
+}
+
+.aktorzy div article {
+    height: 400px;
+}
+
+.aktorzy header,
+.filmy header {
+    margin: 15px 0;
+    
+}
+
+main section div article footer {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    width: 100%;
+    height: 80px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.title {
+    font-size: 36px;
+    padding-left: 10px;
+}
+
+article:hover {
+    transform: scale(1.05);
+}

@@ -1,0 +1,65 @@
+{
+    "data": [
+        {
+            "id":1,
+            "name": "Arkadiusz",
+            "surname": "Jakubik",
+            "description": "Aktor, reżyser i scenarzysta filmowy i teatralny. Urodził się 14 stycznia 1969 roku w Strzelcach Opolskich. Już jako ośmiolatek zagrał w filmie Tadeusza Kijańskiego \"Okrągły tydzień\". Dwa lata później wystąpił u tego samego reżysera w filmie \"...cóżeś ty za pani...\".",
+            "description_full": "W roku 1992 ukończył PWST we Wrocławiu. Przygodę z teatrem na dobre zaczął od debiutu na deskach Operetki Warszawskiej w 1993 roku. Wcześniej próbował swoich sił w Teatrze Kalambur we Wrocławiu, szybko jednak podjął decyzję o przeprowadzce do Warszawy. W latach 1997-2000 był aktorem warszawskiego Teatru Rampa. Zagrał w wielu serialach telewizyjnych. Popularność przyniosła mu rola Rysia w sitcomie \"13 posterunek 2\". Na dużym ekranie pojawiał się często jako odtwórca ról drugoplanowych. Za rolę notariusza w \"Weselu\" Wojciecha Smarzowskiego otrzymał nominację do nagrody Orzeł. Główną rolę Smarzowski powierzył mu w dramacie "Dom Zły". Jakubik jest również autorem słuchowisk radiowych, został laureatem głównej nagrody na Ogólnopolskim Konkursie Słuchowisk Radiowych. Zajmował się także dubbingiem - jego głosem przemawiali bohaterowie popularnych kreskówek. Żoną aktora jest Agnieszka Matysiak, również aktorka.",
+            "img": "img/actors/1.jpg",
+            "img_full": "img/actors/2_full.jpg",
+            "movies": [1]
+        },
+        {
+            "id":2,
+            "name": "Ryan",
+            "surname": "Gosling",
+            "description": "Ryan rozpoczął swoją przygodę z show-biznesem, kiedy jako dziecko brał udział (wraz z siostrą) w lokalnych konkursach talentów. W 1993 roku pokonał ponad siedemnaście tysięcy konkurentów i zaczął występować w \"MMC\" produkowanym przez Disney Channel (razem z Christiną Aguilerą i Keri Russell). Kiedy program odwołano, grywał epizody w serialach telewizyjnych takich jak "Droga do Avonlea", czy "Breaker High". Przełomem w jego karierze była rola Herkulesa w serialu telewizji Fox "Młody Herkules". W 2000 roku zagrał w filmie Boaza Yakina "Tytani". Sławę przyniosła mu dopiero rola w \"Fanatyku\", który zdobył nagrodę jury na festiwalu Sundance. Jego następny film - \"Śmiertelna wyliczanka\" - okazał się w USA finansową klapą, ale rola Ryana jako sadystycznego mordercy została doceniona przez krytyków.",
+            "description_full": "Ryan rozpoczął swoją przygodę z show-biznesem, kiedy jako dziecko brał udział (wraz z siostrą) w lokalnych konkursach talentów. W 1993 roku pokonał ponad siedemnaście tysięcy konkurentów i zaczął występować w \"MMC\" produkowanym przez Disney Channel (razem z Christiną Aguilerą i Keri Russell). Kiedy program odwołano, grywał epizody w serialach telewizyjnych takich jak "Droga do Avonlea", czy "Breaker High". Przełomem w jego karierze była rola Herkulesa w serialu telewizji Fox "Młody Herkules". W 2000 roku zagrał w filmie Boaza Yakina "Tytani". Sławę przyniosła mu dopiero rola w \"Fanatyku\", który zdobył nagrodę jury na festiwalu Sundance. Jego następny film - \"Śmiertelna wyliczanka\" - okazał się w USA finansową klapą, ale rola Ryana jako sadystycznego mordercy została doceniona przez krytyków.",
+            "img": "img/actors/2.jpg",
+            "img_full": "img/actors/2_full.jpg",
+            "movies": [2]
+        },
+        {
+            "id":3,
+            "name": "Claire",
+            "surname": "Foy",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam odit debitis ad cumque impedit sequi similique fuga temporibus, laborum consequatur dolorem ab vel omnis quas cupiditate. Mollitia, corporis officia? Magni?",
+            "description_full": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam odit debitis ad cumque impedit sequi similique fuga temporibus, laborum consequatur dolorem ab vel omnis quas cupiditate. Mollitia, corporis officia? Magni?",
+            "img": "img/actors/3.jpg",
+            "img_full": "img/actors/2_full.jpg",
+            "movies": [2]
+        },
+        {
+            "id":4,
+            "name": "Marcin",
+            "surname": "Dorociński",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam odit debitis ad cumque impedit sequi similique fuga temporibus, laborum consequatur dolorem ab vel omnis quas cupiditate. Mollitia, corporis officia? Magni?",
+            "description_full": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam odit debitis ad cumque impedit sequi similique fuga temporibus, laborum consequatur dolorem ab vel omnis quas cupiditate. Mollitia, corporis officia? Magni?",
+            "img": "img/actors/4.jpg",
+            "img_full": "img/actors/2_full.jpg",
+            "movies": [3]
+        },
+        {
+            "id":5,
+            "name": "Tomasz",
+            "surname": "Karolak",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam odit debitis ad cumque impedit sequi similique fuga temporibus, laborum consequatur dolorem ab vel omnis quas cupiditate. Mollitia, corporis officia? Magni?",
+            "description_full": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam odit debitis ad cumque impedit sequi similique fuga temporibus, laborum consequatur dolorem ab vel omnis quas cupiditate. Mollitia, corporis officia? Magni?",
+            "img": "img/actors/5.jpg",
+            "img_full": "img/actors/2_full.jpg",
+            "movies": [3]
+        },
+        {
+            "id":6,
+            "name": "Rami",
+            "surname": "Malek",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam odit debitis ad cumque impedit sequi similique fuga temporibus, laborum consequatur dolorem ab vel omnis quas cupiditate. Mollitia, corporis officia? Magni?",
+            "description_full": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam odit debitis ad cumque impedit sequi similique fuga temporibus, laborum consequatur dolorem ab vel omnis quas cupiditate. Mollitia, corporis officia? Magni?",
+            "img": "img/actors/6.jpg",
+            "img_full": "img/actors/2_full.jpg",
+            "movies": [6]
+        }
+    ],
+    "totalElements": 6
+}
